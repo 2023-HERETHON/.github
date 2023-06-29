@@ -21,11 +21,10 @@
 
 | 디캠프 | 해피문데이 | 더벤티 | 한빛미디어 | 이지스퍼블리싱 |
 | :---: | :---: | :---: | :---: | :---: |
-|<img width="100" alt="디캠프로고" src="https://github.com/2023-HERETHON/.github/assets/64454313/026b3c26-469c-4245-9c57-ef78a319e568"> | <img width="100" alt="해피문데이로고" src="https://github.com/2023-HERETHON/.github/assets/64454313/da1b87a7-4ab1-4351-9e9b-99bb9c14face">|<img width="100" alt="더벤티로고" src="https://github.com/2023-HERETHON/.github/assets/64454313/6acc933e-0c1f-444c-9606-055bec0ac8c8"> | <img width="100" alt="한빛미디어로고" src="https://github.com/2023-HERETHON/.github/assets/64454313/b321df82-b1ff-4363-b599-b919d1cc58bd"> | <img width="100" alt="이지스퍼블리싱로고" src="https://github.com/2023-HERETHON/.github/assets/64454313/2c916bcd-2b8e-4f7c-ac86-9b24a3e37202"> |
+|<img width="100" alt="디캠프로고" src="https://github.com/2023-HERETHON/.github/assets/64454313/835cdd94-41c8-4e04-bbe9-6869d54d9f46"> | <img width="100" alt="해피문데이로고" src="https://github.com/2023-HERETHON/.github/assets/64454313/da1b87a7-4ab1-4351-9e9b-99bb9c14face">|<img width="100" alt="더벤티로고" src="https://github.com/2023-HERETHON/.github/assets/64454313/d0502a7a-7824-4829-a77f-a60bff29191d"> | <img width="100" alt="한빛미디어로고" src="https://github.com/2023-HERETHON/.github/assets/64454313/b321df82-b1ff-4363-b599-b919d1cc58bd"> | <img width="100" alt="이지스퍼블리싱로고" src="https://github.com/2023-HERETHON/.github/assets/64454313/2c916bcd-2b8e-4f7c-ac86-9b24a3e37202"> |
 <br>
 
 ## **주최·주관**
-
 
 | 주최 | 주관 |
 | :---: | :---: | 
